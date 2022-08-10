@@ -15,7 +15,7 @@
 - Function that prints a char.
 
 5. functions1.c
-- Function that Ppints an unsigned number.
+- Function that prints an unsigned number.
 
 6. functions2.c
 - Function that prints the value of a pointer variable.
